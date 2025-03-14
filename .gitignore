@@ -1,0 +1,11 @@
+# Evita arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Evita arquivos gerados pelo WordPress
+wp-config.php
+wp-content/uploads/
+
+# Ignora dependências externas (se houver)
+node_modules/
+vendor/
